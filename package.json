@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nuxt",
-    "build": "set NODE_OPTIONS=\"--openssl-legacy-provider\" & nuxt build",
+    "build": "nuxt build",
     "start": "nuxt start"
   },
   "keywords": [],
